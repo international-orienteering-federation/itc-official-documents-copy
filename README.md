@@ -11,3 +11,8 @@ For your convenience, the documents are also available here on GitHub:
 * [IOF Approved electronic punching systems, updated April 2026](iof-approved-electronic-punching-systems-april-2026.pdf)
 * [IOF Punching System Approval Process and Requirements](iof-punching-system-approval-v-2018-04-07-3.pdf)
 
+## Timing ##
+
+In 2023 the IOF OFfice and IT Commission issued a Timing Manual for WOC:
+
+[IOF Timing Manual for WOC and Orienteering World Cup version 1.2](IOF Timing Manual for WOC and Orienteering World Cup - version 1.2.pdf)
