@@ -13,6 +13,6 @@ For your convenience, the documents are also available here on GitHub:
 
 ## Timing ##
 
-In 2023 the IOF OFfice and IT Commission issued a Timing Manual for WOC:
+In 2023 the IOF Office and IT Commission issued a Timing Manual for WOC:
 
 [IOF Timing Manual for WOC and Orienteering World Cup version 1.2](iof-timing-manual-for-woc-and-wc-version-1-2.pdf)
